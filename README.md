@@ -2,7 +2,7 @@
 
 This quick start guide will allow you to install and enable the BFX() custom function in your worksheet. A full guide for the function can be found here: 
 
-# Installing:
+# Installation
 
 1. Download the BFX Function 1.0.xlam file
 2. Copy and paste the BFX Function 1.0.xlam file to the Microsoft Add-ins folder. This is usually found at C:\Users<Username>\AppData\Roaming\Microsoft\Addins
