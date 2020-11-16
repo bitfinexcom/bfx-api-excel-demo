@@ -11,6 +11,8 @@ This quick start guide will allow you to install and enable the BFX() custom fun
 
 Note: You may need to enable the ability to view hidden files and folders to see the AppData folder under your folder. Instructions to enable this can be found here: https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-10-97fbc472-c603-9d90-91d0-1166d1d9f4b5
 
+Alternatively, you can also import the JsonConverter.bas and BFX_Function_Codebase.bas files into the Visual Basic Editor or copy and paste their respective code into new modules.
+
 # Enabling the add-in in your worksheet
 
 1. In Excel, go to "File" -> "Options" -> "Add-ins".
