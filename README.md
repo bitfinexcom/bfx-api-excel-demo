@@ -2,7 +2,7 @@
 
 Please note: The BFX() Function only works on Excel for Windows
 
-This quick start guide will allow you to install and enable the BFX() custom function in your worksheet. A full guide for the function can be found here: 
+This quick start guide will allow you to install and enable the BFX() custom function in your worksheet. A full guide for the function can be found here: [https://docs.bitfinex.com/docs/showcase](https://docs.bitfinex.com/docs/showcase)
 
 # Installation
 
