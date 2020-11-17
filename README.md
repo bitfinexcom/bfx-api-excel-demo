@@ -16,4 +16,4 @@ This quick start guide will allow you to install and enable the BFX() custom fun
 
 # Ready for use
 
-The BFX() function is now ready for use. In the CheatSheet.xlsx file included in this repository you will find a list of all possible fields that can be retrieved by the add-in.
+The BFX() function is now ready for use. In the CheatSheet.xlsx file included in this repository, you will find a list of all possible fields that can be retrieved by the add-in.
