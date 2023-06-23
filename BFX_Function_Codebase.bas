@@ -61,9 +61,9 @@ ElseIf Field = "Last_Price_Hist" Or Field = "First_Price_Hist" Then
         If Field = "Last_Price_Hist" Then
             Query_Parameters = "end=" + Timestamp + "&limit=1"
         ElseIf Field = "First_Price_Hist" Then
+            Query_Parameters = "start=" + Timestamp + "&limit=1" + "&sort=1"
         End If
         
-            Query_Parameters = "start=" + Timestamp + "&limit=1" + "&sort=1"
         URL = BuildURL(Endpoint, Path_Parameters, Query_Parameters)
         
         ApiData = SendRequest(URL)
